@@ -68,7 +68,7 @@ h1, h3 {
 }
 
 .header {
-    height: 120px;
+    height: 100px;
     text-align: center;
     border-bottom: 1px solid #082A83;
 }
@@ -96,17 +96,17 @@ h1, h3 {
 }
 
 #workouts {
-    height: 100px;
+    height: 80px;
     border-bottom: 1px solid #082A83;
 }
 
 #progress {
-    height: 100px;
+    height: 80px;
     border-bottom: 1px solid #082A83;
 }
 
 #goals {
-    height: 100px;
+    height: 80px;
     border-bottom: 1px solid #082A83;
 }
 
